@@ -1,4 +1,4 @@
-# Wesley Chan — Portfolio
+# Wesley Chan - Portfolio
 
 A simple, single-page portfolio deployed onto GitHub Pages
 
