@@ -114,7 +114,13 @@ export const projects: Project[] = [
     tags: ["Python", "Pandas", "NumPy", "SciPy", "R", "Matplotlib", "Seaborn"],
     lesson:
       "Rigorous and reproducible research is extensive. Using tools to automate and streamline analysis is as important as the research itself.",
-  },
+    links: [
+      {
+      label: "Sanitised GitHub Repository with examples of the scripting done.", 
+      href: "https://github.com/HoomanBeing727/bioengineering-wearables-lab",
+      }
+    ]
+    },
   {
     id: "igem",
     name: "International Genetically Engineered Machine (iGEM) Team",
